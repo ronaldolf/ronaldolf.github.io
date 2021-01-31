@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ronaldolf.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-01-31T13:56:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ronaldolf.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ronaldolf.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>https://ronaldolf.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
   
 </urlset>
