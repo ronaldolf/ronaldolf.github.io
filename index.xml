@@ -7,14 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Native4.cloud 2021</copyright><atom:link href="https://ronaldolf.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://ronaldolf.github.io/about/</link>
-      <pubDate>Sun, 31 Jan 2021 13:56:06 +0000</pubDate>
-      
-      <guid>https://ronaldolf.github.io/about/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
